@@ -1,0 +1,6 @@
+#ifndef MONTECARLO_MONTECARLO_H
+#define MONTECARLO_MONTECARLO_H
+
+#include "algorithm.h"
+
+#endif //MONTECARLO_MONTECARLO_H
